@@ -1,5 +1,8 @@
 # 컴퓨터공학과 21학번 60212256 황동호 딥러닝 기본설정[HW0] 과제
 
+## 원본 사진
+![원본 사진](원본사진.jpg)
+
 ## nano-banana 사진 변환 프롬프트(원본)
 
 “A photorealistic 3D movie still of a futuristic humanoid robot on a skyscraper rooftop at dawn in light drizzle and mist. Wet concrete reflects teal and magenta neon. The robot, with cold metallic brushed-aluminum panels and light wear, lifts an industrial fusion-battery crate overhead with both hands. Purple electric arcs (low intensity) flow from the robot’s hands into the object. Rim lighting around the silhouette, volumetric fog, distant skyline filled with drone taxis, airships, and floating sky islands. Rule-of-thirds composition, low angle, 24mm lens, shallow depth of field, subtle motion blur, HDR detail, cinematic sci-fi atmosphere.”
@@ -14,6 +17,9 @@ Output: aspect ratio 16:9, size 1024×576 px (long edge 1024).
 네거티브: 텍스트, 로고, 워터마크, 여분/기형 손가락, 왜곡된 손, 아티팩트, 저해상도, 과도한 블러, 과채도, 밴딩, 색수차.
 
 출력: 비율 16:9, 크기 1024×576 px.
+
+## 변환 사진
+![변환 사진](변환사진.png)
 
 ## veo3 영상 변환 프롬프트(원본)
 8-second cinematic photorealistic 3D sci-fi, 16:9, 24fps.
@@ -31,3 +37,6 @@ Negative: text, numbers, logos, watermarks, HUD readouts, deformed/extra fingers
 카메라: 느린 크레인업 + 약한 돌리인, 로우 앵글, 삼등분, 얕은 심도.
 라이트/FX: 림라이트, 볼류메트릭 포그, 부드러운 비 줄기와 반사.
 네거티브: 텍스트/숫자/HUD, 로고, 워터마크, 변형 손가락, 심한 플리커, 떨림, 아티팩트, 저해상도.
+
+## 변환 동영상
+<video src="변환동영상.mp4" controls width="600"></video>
