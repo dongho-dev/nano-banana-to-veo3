@@ -39,4 +39,4 @@ Negative: text, numbers, logos, watermarks, HUD readouts, deformed/extra fingers
 네거티브: 텍스트/숫자/HUD, 로고, 워터마크, 변형 손가락, 심한 플리커, 떨림, 아티팩트, 저해상도.
 
 ## 변환 동영상
-<video src="변환동영상.mp4" controls width="600"></video>
+[<video src="변환동영상.mp4" controls width="600"></video>](https://github.com/user-attachments/assets/7ddfe5cf-a7dc-4e72-a4e2-5b5bc49f2f30)
